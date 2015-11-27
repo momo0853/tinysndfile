@@ -1,4 +1,4 @@
-out/obj/arm/armeabi-v7a/objs/jni_shared/tinysndfile.o: tinysndfile.c \
+out/obj/arm/armeabi-v7a/objs/tinysndfile/tinysndfile.o: tinysndfile.c \
  sndfile.h \
  /home/liuliang/soft/google/android-ndk-r10d/platforms/android-21/arch-arm/usr/include/stdio.h \
  /home/liuliang/soft/google/android-ndk-r10d/platforms/android-21/arch-arm/usr/include/sys/cdefs.h \

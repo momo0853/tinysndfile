@@ -14,7 +14,7 @@ LOCAL_PATH := $(call my-dir)
 #---------- shared module ----------#
 
 include $(CLEAR_VARS)
-LOCAL_MODULE     := jni_shared
+LOCAL_MODULE     := libtinysndfile
 LOCAL_ARM_MODULE := arm
 
 LOCAL_CFLAGS := -DHAVE_LITTLE_ENDIAN

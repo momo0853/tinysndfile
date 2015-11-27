@@ -1,4 +1,4 @@
-out/obj/arm/armeabi-v7a/objs/jni_shared/primitives.o: primitives.c \
+out/obj/arm/armeabi-v7a/objs/tinysndfile/primitives.o: primitives.c \
  primitives.h \
  /home/liuliang/soft/google/android-ndk-r10d/platforms/android-21/arch-arm/usr/include/stdint.h \
  /home/liuliang/soft/google/android-ndk-r10d/platforms/android-21/arch-arm/usr/include/machine/wchar_limits.h \
